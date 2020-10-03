@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//hactoberfest 2020 daffa
+
 import 'detail.dart';
 
 void main() {
